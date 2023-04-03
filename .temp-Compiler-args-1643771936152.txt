@@ -1,0 +1,6 @@
+-Dfile.encoding=Cp1252
+-classpath
+"C:\\Users\\Josh\\eclipse-workspace\\groupProjectSSP\\bin"
+-XX:+ShowCodeDetailsInExceptionMessages
+miniJava.Compiler
+"C:\\Users\\Josh\\Documents\\Test.java"
